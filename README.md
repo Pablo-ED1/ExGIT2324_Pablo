@@ -12,4 +12,6 @@ En este repositorio encontraremos la web del módulo Entornos de Desarrollo. Los
 En la página del [IES Pablo Picasso](https://fpiespablopicasso.es/)
 
 Si quieres contribuir al desarrollo de la web, puedes clonar el repositorio con el comando:
-
+```
+git clone
+```
